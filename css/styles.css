@@ -1,0 +1,31 @@
+body {
+  background-color: #eeb76b;
+}
+
+hr {
+  border-style: solid;
+  border-top-style: dotted;
+  border-color: blue;
+  border width: 20px;
+  border height: 5px;
+  width: 100%;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  background-color: Yellow;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: #435560
+}
+label {
+  color: green;
+}
